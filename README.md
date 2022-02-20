@@ -1,3 +1,3 @@
 # Stereo528
 
-I eixst.
+I exist 
