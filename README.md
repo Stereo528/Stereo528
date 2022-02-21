@@ -9,7 +9,6 @@
 
 - Fun fact: **there is no fun fact. though a real fact is that I use They/She pronouns.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
