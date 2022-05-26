@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stereo528</h1>
 <h3 align="center">A random ass human being.</h3>
 
-- I’m currently working on: **too many fucking things, though my latest is [She-Ra: Minecraft Edition](https://github.com/Stereo528/SRME), [Stereo's Biome Mod](https://github.com/Stereo528/StereosBiomeMod), and [Yiski](https://github.com/asoji/Yiski)**
+- I’m currently working on: **[Yiski](https://github.com/asoji/Yiski)**, though im inactive at the moment do to burnout and finals
 
 - I’m currently learning: **C++, Rust**
 
