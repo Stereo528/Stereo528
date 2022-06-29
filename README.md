@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Stereo528</h1>
+<h1 align="center">Hi, I'm Stereo528 (They/She)</h1>
 <h3 align="center">A random ass human being.</h3>
 
-- I’m currently working on: **[Yiski](https://github.com/asoji/Yiski)**, though im inactive at the moment do to burnout and finals
+- I’m currently working on: **[MainMenuChanger](https://github.com/Stereo528/MainMenuChanger)**, and a few other mods!
 
 - I’m currently learning: **C++, Rust**
 
-- How to reach me: **Discord: Studio528#1225, Github: You're here aren't you?, idk anywhere else easy.**
+- How to reach me: **Discord: Studio528#1225, Github: You're here aren't you?**
 
-- Fun fact: **there is no fun fact. though a real fact is that I use They/She pronouns.**
+- Random Fun fact: **The computers used in the Apollo 11 trip to the moon had less processing power than a modern day cell phone.**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
