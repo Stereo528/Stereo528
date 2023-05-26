@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Stereo528 (She/Her)</h1>
 <h3 align="center">A random ass human being.</h3>
 
-- I’m currently working on: **[MainMenuChanger](https://github.com/Stereo528/MainMenuChanger)**, and a few other mods!
+- I’m currently working on: **[MainMenuChanger](https://github.com/Stereo528/MainMenuChanger)**, **[YACH](https://github.com/Stereo528/YACH)**, and an untitled game engine.
 
-- I’m currently learning: **C++, Rust**
+- I’m currently learning: **C++**
 
 - How to reach me: **Discord: Studio528#1225, Github: You're here aren't you?**
 
