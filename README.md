@@ -5,7 +5,7 @@
 
 - I’m currently learning: **C++**
 
-- How to reach me: **Discord: Studio528#1225, Github: You're here aren't you?**
+- How to reach me: **Discord: @studio528, Github: You're here aren't you?**
 
 - Random Fun fact: **The computers used in the Apollo 11 trip to the moon had less processing power than a modern day cell phone.**
 
