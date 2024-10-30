@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stereo528 (She/Her)</h1>
 <h3 align="center">A random ass human being.</h3>
 
-- I’m currently working on: **[MainMenuChanger](https://github.com/Stereo528/MainMenuChanger)**, **[YACH](https://github.com/Stereo528/YACH)**, and **[Moue Milkshakes](https://github.com/Stereo528/milkshakes)**.
+- I’m currently working on: **Not really anything at the moment**.
 
 - I’m currently learning: **How to be gay af**
 
