@@ -3,9 +3,9 @@
 
 - I’m currently working on: **[MainMenuChanger](https://github.com/Stereo528/MainMenuChanger)**, **[YACH](https://github.com/Stereo528/YACH)**, and **[Moue Milkshakes](https://github.com/Stereo528/milkshakes)**.
 
-- I’m currently learning: **C++**
+- I’m currently learning: **How to be gay af**
 
-- How to reach me: **Discord: @studio528, Github: You're here aren't you?**
+- How to reach me: **Discord: @studio528, Tumblr: stereo528, Bluesky: stereo528.downloadmorepronouns.com**
 
 - Random Fun fact: **The computers used in the Apollo 11 trip to the moon had less processing power than a modern day cell phone.**
 
